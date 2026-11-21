@@ -140,12 +140,15 @@ public class AICharacter : MonoBehaviour {
 #### 2. Neighbors set manually via Inspector
 #### 3. WaypointGraph script on a manager
 #### 4. AICharacter assigned a start and goal
+
+
 ### Output:
 
 
 
 
-<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/d786dd70-b3ca-41e2-b0d9-e6977d2b3d88" />
+<img width="1917" height="974" alt="Screenshot 2026-11-21 142054" src="https://github.com/user-attachments/assets/edebf659-89b3-44d7-a3e8-695464f314c5" />
+
 
 
 
