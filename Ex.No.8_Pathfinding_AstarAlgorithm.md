@@ -145,6 +145,7 @@ public class AICharacter : MonoBehaviour {
 
 
 
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/d786dd70-b3ca-41e2-b0d9-e6977d2b3d88" />
 
 
 
